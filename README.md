@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Try this project [Click link and test it!](https://to-do-app-three-beta.vercel.app).
 
 ## Available Scripts
 
